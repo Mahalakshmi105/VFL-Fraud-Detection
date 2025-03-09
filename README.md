@@ -26,7 +26,7 @@ This project implements a **privacy-preserving fraud detection system** for the 
 - Required Libraries: `torch`, `pandas`, `numpy`, `scikit-learn`
 
 ## 📊 Dataset
-The project uses a **publicly available healthcare fraud detection dataset**:
+The project uses a **publicly available healthcare fraud detection dataset** - [DataSet Link](https:/www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis)
 - 🏥 **Hospital Data:** Contains patient medical records, including **StayDuration, UniqueDiagnosisCount**, and **risc_score**.
 - 🏦 **Insurance Data:** Includes financial records such as **IPAnnualReimbursementAmt, OPAnnualReimbursementAmt**, and **claim_amount**.
 
